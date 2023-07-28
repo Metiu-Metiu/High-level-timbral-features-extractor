@@ -1,0 +1,23 @@
+{
+    "duration": 0.5805000066757202,
+    "lossless": 1.0,
+    "codec": "pcm_s16le",
+    "bitrate": 256000.0,
+    "samplerate": 16000.0,
+    "channels": 1.0,
+    "audio_md5": "2b6c116266e8fb7b4fe25eaa05f143e9",
+    "loudness": -21.291322708129883,
+    "dynamic_range": 0.0,
+    "temporal_centroid": 0.16048842668533325,
+    "log_attack_time": -1.811929702758789,
+    "filesize": 18620,
+    "single_event": true,
+    "hardness": 70.28013349740661,
+    "depth": 29.49141243995568,
+    "brightness": 70.45745133921635,
+    "roughness": 58.62360024794326,
+    "warmth": 28.908822947404886,
+    "sharpness": 60.48719798049486,
+    "boominess": 13.375615715372465,
+    "reverb": false
+}

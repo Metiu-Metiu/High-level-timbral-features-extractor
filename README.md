@@ -38,6 +38,6 @@ I realized that MIR is very important even for those focused on Synthesis/Genera
 
 # References
 
-Font, F. (2019). Audio Commons Audio Extractor. GiHub. Retrieved March 21, 2023, from https://github.com/AudioCommons/ac-audio-extractor
-Ramires, A. (2020, February 12). Freesound One-Shot Percussive Sounds. Zenodo. Retrieved March 21, 2023, from https://zenodo.org/record/4687854#.ZBmPrOzMInU
-Ramires, A. (2023, August 2). Automatic characterization and generation of music loops and instrument samples for electronic music production. CORA TDX Tesis Doctorals en Xarxa. Retrieved March 21, 2023, from http://hdl.handle.net/10803/687697
+- Font, F. (2019). Audio Commons Audio Extractor. GiHub. Retrieved March 21, 2023, from https://github.com/AudioCommons/ac-audio-extractor
+- Ramires, A. (2020, February 12). Freesound One-Shot Percussive Sounds. Zenodo. Retrieved March 21, 2023, from https://zenodo.org/record/4687854#.ZBmPrOzMInU
+- Ramires, A. (2023, August 2). Automatic characterization and generation of music loops and instrument samples for electronic music production. CORA TDX Tesis Doctorals en Xarxa. Retrieved March 21, 2023, from http://hdl.handle.net/10803/687697
